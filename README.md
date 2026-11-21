@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
   <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Business-Intelligence-Data-Dashboards/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Business-Intelligence-Data-Dashboards?style=social" alt="GitHub Stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Business-Intelligence-Data-Dashboards/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Business-Intelligence-Data-Dashboards?style=social" alt="GitHub_Stars" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Business-Intelligence-Data-Dashboards/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Business-Intelligence-Data-Dashboards?style=social" alt="GitHub Forks" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Business-Intelligence-Data-Dashboards/blob/main/LICENSE"><img src="https://img.shields.io/github/license/ishandutta2007/Awesome-Business-Intelligence-Data-Dashboards?color=blue" alt="License" /></a>
   <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
@@ -64,9 +64,9 @@ The table below catalogs the leading commercial and enterprise-hosted Business I
 
 ## 💻 Open-Source GitHub Projects
 
-The following table indexes leading open-source Business Intelligence platforms, semantic layers, BI-as-Code frameworks, and dashboard toolkits, **ranked in descending order by GitHub Stars ⭐**.
+The following table indexes leading open-source Business Intelligence platforms, semantic layers, BI-as-Code frameworks, and dashboard toolkits, **ranked in descending order by GitHub_Stars ⭐**.
 
-| Project | Stars | Stargazers Link | Description &amp; Tech Stack |
+| Project | GitHub_Stars | Stargazers Link | Description &amp; Tech Stack |
 | :--- | :--- | :--- | :--- |
 | **[Grafana](https://github.com/grafana/grafana)** | 78,000+ ⭐ | [![Grafana Stars](https://img.shields.io/github/stars/grafana/grafana?style=social&color=white)](https://github.com/grafana/grafana/stargazers) | Leading open-source platform for monitoring, time-series metrics, and operational BI dashboards connecting to SQL, Prometheus, ClickHouse, and Loki. *(TypeScript/Go)* |
 | **[Apache Superset](https://github.com/apache/superset)** | 75,600+ ⭐ | [![Superset Stars](https://img.shields.io/github/stars/apache/superset?style=social&color=white)](https://github.com/apache/superset/stargazers) | Flagship enterprise open-source modern BI and data exploration platform featuring an advanced SQL IDE, 40+ visualization plugins, and fine-grained RBAC. *(Python/TypeScript)* |
@@ -101,7 +101,7 @@ We welcome community suggestions, updates, and additions! Follow these simple st
 2. 🌿 **Create a new branch** (`git checkout -b feature/add-new-bi-tool`).
 3. 📝 **Add or update entries** following the tabular format:
    - For SaaS: include specific starting tier price, specific free tier/trial limits, company size, and official documentation links.
-   - For Open-Source: include repo link, star badge (`style=social&color=white`), GitHub stargazers link, and concise tech stack summary.
+   - For Open-Source: include repo link, Stars_Badge (`style=social&color=white`), GitHub stargazers link, and concise tech stack summary.
 4. 🚀 **Submit a Pull Request** with a brief summary of your additions.
 
 ---
